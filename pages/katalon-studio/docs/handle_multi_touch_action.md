@@ -10,6 +10,7 @@ Multi-touch action often appears in gaming applications. This tutorial shows you
 
 * [The app](https://play.google.com/store/apps/details?id=com.the511plus.MultiTouchTester); or
 * [The direct apk file](https://www.appsapk.com/multitouch-tester/)
+* [APK apps and games](https://guidancecorner.com/)
 
    ![Handling Multi-touch Action in automation testing](https://github.com/katalon-studio/docs-images/raw/master/katalon-studio/tutorials/handle_multi_touch_action/Handling-Multi-touch-Action.png)
 
